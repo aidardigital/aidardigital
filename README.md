@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @aidardigital
-- 👀 I’m interested in ... fullstack software development in DevSecOps
-- 🌱 I’m currently learning ... Flutter, Dart, Python, R and databases
+- 👋 Hi, I’m ... @aidardigital
+- 👀 I’m interested in ... full stack software development in DevSecOps
+- 🌱 I’m currently learning ... Flutter, Dart, Python, R and Databases
 - 💞️ I’m looking to collaborate on ... mobile, web, desktop & IOT apps
 - 📫 How to reach me ... https://www.linkedin.com/in/aidar-satubaldin/
 
